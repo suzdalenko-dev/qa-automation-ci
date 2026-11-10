@@ -21,3 +21,5 @@ El proyecto está enfocado en el aseguramiento de la calidad del software, la au
 - **Git / GitHub** – Control de versiones y gestión del código fuente.
 - **Jenkins** – Integración continua y automatización de procesos.
 - **k6** – Pruebas de rendimiento y carga.
+
+- python -m pytest -v
