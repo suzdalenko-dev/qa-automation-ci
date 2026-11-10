@@ -23,4 +23,6 @@ El proyecto está enfocado en el aseguramiento de la calidad del software, la au
 - **k6** – Pruebas de rendimiento y carga.
 
 ##
-- python -m pytest -v
+python -m pytest -v
+
+2
